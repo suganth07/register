@@ -1,0 +1,9 @@
+{
+  "subdomain": "leobackend",
+  "owner": {
+    "email": "suganthk007@example.com"
+  },
+  "record": {
+    "A": ["223.185.21.56"]
+  }
+}
